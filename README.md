@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aamir Shahzadah</h1>
 <h3 align="center">A passionate developer from Lahore Pakistan</h3>
 
-<img align="right" alt="coding" width="400" src=":https://web.whatsapp.com/3aeea2dc-497c-4ddd-9924-fe88875aa8b6">
+<img align="right" alt="coding" width="400" src="https://web.whatsapp.com/3aeea2dc-497c-4ddd-9924-fe88875aa8b6">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aamir-shahzadah&label=Profile%20views&color=0e75b6&style=flat" alt="aamir-shahzadah" /> </p>
 
