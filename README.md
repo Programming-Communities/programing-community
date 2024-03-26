@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aamir Shahzadah</h1>
-<h3 align="center">A passionate developer from Lahore Pakistan</h3>
+<h3 align="center">A am developer from Lahore Pakistan</h3>
 
 <img align="right" alt="coding" width="400" src="[https://web.whatsapp.com/3aeea2dc-497c-4ddd-9924-fe88875aa8b6](https://images.unsplash.com/photo-1580927752452-89d86da3fa0a?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)">
 
