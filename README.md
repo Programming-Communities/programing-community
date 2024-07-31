@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aamir Shahzadah</h1>
-<h3 align="center">I am a developer from Lahore, Pakistan</h3>
+<h3 align="center">A developer from Lahore, Pakistan</h3>
 
 <img align="right" alt="coding" width="900" height="300" src="https://images.unsplash.com/photo-1580927752452-89d86da3fa0a?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
 
@@ -7,23 +7,37 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=programing-community" alt="programing-community" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/aamirshahzadah" target="blank"><img src="https://img.shields.io/twitter/follow/aamirshahzadah?logo=twitter&style=for-the-badge" alt="aamirshahzadah" /></a> </p>
+<p align="left"> <a href="https://twitter.com/programing_community" target="blank"><img src="https://img.shields.io/twitter/follow/programing_community?logo=twitter&style=for-the-badge" alt="programing_community" /></a> </p>
 
 - 🔭 I’m currently working on [TypeScript](#)
 - 🌱 I’m currently learning **TypeScript, AI**
-- 👯 I’m looking to on [Aamir](https://amir.com.pk/)
+- 👯 I’m looking to work on [Programing Community](https://whatsapp.com/channel/0029VaYJF3wA2pL9Q8sQj91W)
 - 🤝 I’m looking for help with [GK Community](https://whatsapp.com/channel/0029VaAes3QKWEKnNvI4N231)
 - 👨‍💻 All of my projects are available at [https://amir.com.pk/projects](https://amir.com.pk/projects)
 - 📝 I regularly write articles on [https://centers.pk/](https://centers.pk/)
-- 💬 Ask me about **https://amir.com.pk/about**
+- 💬 Ask me about **[Programing Community](https://whatsapp.com/channel/0029VaYJF3wA2pL9Q8sQj91W)**
 - 📫 How to reach me **hi@amir.com.pk**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/aamirshahzadah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aamirshahzadah" height="30" width="40" /></a>
-<a href="https://fb.com/aamirshahzadah.nbt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aamirshahzadah.nbt" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/aamirshahzadah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aamirshahzadah" height="30" width="40" /></a>
+<a href="https://twitter.com/programing_community" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="programing_community" height="30" width="40" /></a>
+<a href="https://fb.com/programing.community" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="programing.community" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@programing.community" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="programing.community" height="30" width="40" /></a>
+<a href="https://www.instagram.com/programing.community/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="programing.community" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/groups/9800342/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="programing-community" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<!-- List your skills and tools as before -->
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=programing-community&show_icons=true&locale=en&layout=compact" alt="programing-community" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=programing-community&show_icons=true&locale=en" alt="programing-community" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=programing-community&" alt="programing-community" /></p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
