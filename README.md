@@ -9,8 +9,8 @@
 
 <p align="left"> <a href="https://twitter.com/programing_community" target="blank"><img src="https://img.shields.io/twitter/follow/programing_community?logo=twitter&style=for-the-badge" alt="programing_community" /></a> </p>
 
-- 🔭 I’m currently working on [TypeScript](#)
-- 🌱 I’m currently learning **TypeScript, AI**
+- 🔭 I’m currently working on [programing-community](#)
+- 🌱 I’m currently learning **anything**
 - 👯 I’m looking to work on [Programing Community](https://whatsapp.com/channel/0029VaYJF3wA2pL9Q8sQj91W)
 - 🤝 I’m looking for help with [GK Community](https://whatsapp.com/channel/0029VaAes3QKWEKnNvI4N231)
 - 👨‍💻 All of my projects are available at [https://amir.com.pk/projects](https://amir.com.pk/projects)
