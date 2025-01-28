@@ -2,7 +2,7 @@
 
 
 
-<img align="right" alt="Programming Communities" width="900" height="300" src="https://yt3.googleusercontent.com/GeBGERIQBG9ihBH1mBCQ8HjXONkzZYxH651lt_TilfElJYd8iBFp57hJJR4t5NekeJJI3yc=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj">
+<img align="right" alt="Programming Communities" width="900" height="300" src="https://avatars.githubusercontent.com/u/164103940?v=4">
 
 
 <h3 align="center">All Course Free of Cost By Programming Communities</h3>
