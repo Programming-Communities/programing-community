@@ -2,7 +2,11 @@
 
 <h3 align="center">All Course Free of Cost By Programming Communities</h3>
 
-<img align="right" alt="Programming Communities" width="768" height="400" src="https://avatars.githubusercontent.com/u/164103940?v=4">
+
+
+
+<img align="right" alt="Programming Communities" width="1080" height="768" src="https://github.com/user-attachments/assets/6c9863eb-f6d1-432b-9ba6-92a0fe0db9d8">
+
 
 
 
