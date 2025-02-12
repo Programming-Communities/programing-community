@@ -5,10 +5,11 @@
 
 
 
-<img align="right" alt="Programming Communities" width="868" height="500" src="https://github.com/user-attachments/assets/6c9863eb-f6d1-432b-9ba6-92a0fe0db9d8">
+<img align="right" alt="Programming Communities" width="868" height="500" src="https://github.com/user-attachments/assets/fc66202d-16f7-479e-8c4c-786e4c5aaebf">
 
 
 
+![Programming Communities]()
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=programming-communities&label=Profile%20views&color=0e75b6&style=flat" alt="programming-communities" /> </p>
