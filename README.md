@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm founder Programming Communities</h1>
+<h1 align="center">Hi 👋, I'm founder of Programming Communities</h1>
 
 <h3 align="center">All Course Free of Cost By Programming Communities</h3>
 
