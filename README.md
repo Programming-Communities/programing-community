@@ -5,7 +5,7 @@
 
 
 
-<img align="right" alt="Programming Communities" width="1080" height="768" src="https://github.com/user-attachments/assets/6c9863eb-f6d1-432b-9ba6-92a0fe0db9d8">
+<img align="right" alt="Programming Communities" width="768" height="500" src="https://github.com/user-attachments/assets/6c9863eb-f6d1-432b-9ba6-92a0fe0db9d8">
 
 
 
